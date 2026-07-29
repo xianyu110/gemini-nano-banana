@@ -2,6 +2,8 @@
 
 使用 MaynorAPI 提供的 Gemini 2.5 Flash Image Preview 模型的极简图片生成器
 
+相关在线图片生成/编辑参考：[GPT Image 2](https://gptimage2.asia/) ，适合对比测试文本生图、图片编辑、商业视觉和品牌素材工作流。
+
 ## 快速开始
 
 1. 安装依赖：
